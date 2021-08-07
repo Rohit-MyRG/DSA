@@ -1,5 +1,5 @@
 // Q. To Check The number is prime or not.
-// "The number which devide by 1 and itself only is called prime number."
+// "The number which devisible by 1 and itself only is called prime number."
 
 #include<iostream>
 bool isPrime(int num)
