@@ -23,3 +23,4 @@ int main()
 		std::cout<<"Number is not prime...";
 	return 0;
 }
+// Time Complexity is: O(n/2)

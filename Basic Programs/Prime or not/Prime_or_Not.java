@@ -28,3 +28,4 @@ class Prime_or_not
 			System.out.println("Number is not prime...");
 	}
 }
+// Time Complexity is: O(n/2)

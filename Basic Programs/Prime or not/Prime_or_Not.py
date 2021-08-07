@@ -12,3 +12,5 @@ if isPrime(num):
     print("Number is prime...")
 else:
 	print("Number is not prime...")
+    
+# Time Complexity is: O(n/2)
